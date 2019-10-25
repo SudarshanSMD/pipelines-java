@@ -1,4 +1,4 @@
-
+[![Build Status](https://sudarshansmd.visualstudio.com/pipelines-java/_apis/build/status/SudarshanSMD.pipelines-java?branchName=master)](https://sudarshansmd.visualstudio.com/pipelines-java/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
